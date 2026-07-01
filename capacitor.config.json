@@ -1,0 +1,13 @@
+{
+  "appId": "ch.deinefirma.becomingswiss",
+  "appName": "Becoming Swiss",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https",
+    "iosScheme": "https"
+  },
+  "ios": {
+    "contentInset": "automatic",
+    "backgroundColor": "#ffffff"
+  }
+}
